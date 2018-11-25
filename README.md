@@ -2,11 +2,15 @@ This is a project to test the effectiveness of chatbots who match a users use of
 
 Testing:
 
-http://m.me/312060269402940
+https://hljames.github.io/math-bots-page/
 
-(not yet live)
+To edit dialogue:
 
-Usage:
+Edit inside index.js
+
+And then on recast.io
+
+To restart server:
 
 ./ngrok http 5000
 
